@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    /* display: none; */
+}
+
+.btn {
+    background-color: gray;
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    display: inline-block;
+}
